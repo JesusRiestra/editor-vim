@@ -1,1 +1,1 @@
-### VI (Vi Improved)
+### VIM (Vi Improved)
