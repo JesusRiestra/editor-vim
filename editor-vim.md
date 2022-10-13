@@ -10,4 +10,10 @@ Para iniciar VIM utilizamos el comando --> **vim _nombredelarchivo_** (si el arc
 
 - **Modo visual**: se accede con la tecla **v**. Podemos seleccionar el texto de manera visual.
 
+### COMANDOS BÁSICOS
+
+
+
+
+
 
