@@ -12,6 +12,12 @@ Para iniciar VIM utilizamos el comando --> **vim _nombredelarchivo_** (si el arc
 
 ### COMANDOS BÁSICOS
 
+**:w** --> Guardar documento
+
+**q** --> Salir del documento
+
+**q!** --> Salir del documento sin guardar
+
 
 
 
