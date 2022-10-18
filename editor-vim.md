@@ -20,13 +20,13 @@ Para iniciar VIM utilizamos el comando --> **vim _nombredelarchivo_** (si el arc
 
 ### USANDO VIM POR PRIMERA VEZ
 
-[Captura 1]()
+[Captura 1](https://i.imgur.com/5EdAokf.png)
 
-[Captura 2]()
+[Captura 2](https://i.imgur.com/1gIOCHq.png)
 
-[Captura 3]()
+[Captura 3](https://i.imgur.com/NbnUmM3.png)
 
-[Captura 4]()
+[Captura 4](https://i.imgur.com/YBdqDwr.png)
 
 
 
