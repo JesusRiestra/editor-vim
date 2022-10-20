@@ -16,6 +16,8 @@ Para iniciar VIM utilizamos el comando --> **vim _nombredelarchivo_** (si el arc
 
 **:q** --> Salir del documento
 
+**:wq** --> Guardar y salir
+
 **:q!** --> Salir del documento sin guardar
 
 ### USANDO VIM POR PRIMERA VEZ
